@@ -1,6 +1,6 @@
 (ns monte-carlo.stock-time-series
   (:require
-    ; incanter.distributions
+    ;; incanter.distributions
     [bnd.utils :refer :all]
     [monte-carlo.core :refer :all]
     [random.utils :refer :all]

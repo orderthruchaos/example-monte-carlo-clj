@@ -1,6 +1,6 @@
 (ns monte-carlo.stock-option-simulation
   (:require
-    ; incanter.distributions
+    ;; incanter.distributions
     [bnd.utils :refer :all]
     [monte-carlo.core :refer :all]
     [random.utils :refer :all]
@@ -66,11 +66,11 @@
   (let [prices (model-stock-price! sigma r div t-n s-0 n-steps m-paths)
         bsm-px (bsm-put s-0 k r div sigma t-n)
         sim-px (euro-put-price r t-n 0 k prices)
-        ; bsm-st (str "BSM: " bsm-px)
-        ; sim-st (str "Sim: " sim-px)
+        ;; bsm-st (str "BSM: " bsm-px)
+        ;; sim-st (str "Sim: " sim-px)
         ]
-    ; (pprint bsm-st)
-    ; (pprint sim-st)
+    ;; (pprint bsm-st)
+    ;; (pprint sim-st)
     {:bsm bsm-px, :sim sim-px}
     ))
 
@@ -91,7 +91,7 @@
     {:bsm bsm-px, :sim sim-px}
     ))
 
-; Quick and dirty simulators.
+;; Quick and dirty simulators.
 (defn quick-euro-call! []
   (simulate-euro-call! @example-vol 0.05 0 1 100 100 10000 10000))
 (defn p-quick-euro-call! []
@@ -101,7 +101,7 @@
 (defn p-quick-euro-put! []
   (p-simulate-euro-put! @example-vol 0.05 0 1 100 100 10000 10000))
 
-; Notes
+;; Notes
 #_(do
     (load-file "src/monte_carlo/stock_option_simulation.clj")
     (use 'monte-carlo.stock-option-simulation)

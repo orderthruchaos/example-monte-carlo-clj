@@ -1,6 +1,6 @@
 (ns bnd.utils)
 
-; Based on the definition of defn-
+;; Based on the definition of defn-
 (defmacro def-
   "same as def, yielding non-public def"
   [name & decls]

@@ -1,6 +1,6 @@
 (ns monte-carlo.stock-option
   (:require
-    ; incanter.distributions
+    ;; incanter.distributions
     [bnd.utils :refer :all]
     [monte-carlo.core :refer :all]
     [random.utils :refer :all]
@@ -11,8 +11,8 @@
   )
 
 (def ^:private std-norm-dist (normal-distribution))
-; (def ^:private std-norm-dist (incanter.distributions/normal-distribution))
-; (def ^:private cdf incanter.distributions/cdf)
+;; (def ^:private std-norm-dist (incanter.distributions/normal-distribution))
+;; (def ^:private cdf incanter.distributions/cdf)
 
 ;; e^(-r(T - t))
 (defn- discount

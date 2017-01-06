@@ -25,14 +25,14 @@
   )
 
 
-; (defn- process-path! [rand-fn! step-fn n-steps user-state-0 j]
-;   (let [sim-state-0 (initial-state user-state-0 j)]
-;     (reduce
-;       (fn [a _] (process-step-fn step-fn (first (rand-fn!)) a))
-;       sim-state-0
-;       (range (inc n-steps)))
-;     )
-;   )
+;; (defn- process-path! [rand-fn! step-fn n-steps user-state-0 j]
+;;   (let [sim-state-0 (initial-state user-state-0 j)]
+;;     (reduce
+;;       (fn [a _] (process-step-fn step-fn (first (rand-fn!)) a))
+;;       sim-state-0
+;;       (range (inc n-steps)))
+;;     )
+;;   )
 
 (defn- process-path! [rand-fn! step-fn n-steps user-state-0 j]
   (reduce

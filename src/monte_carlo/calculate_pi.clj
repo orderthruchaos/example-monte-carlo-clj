@@ -12,8 +12,8 @@
 
 (defn- r-squared [[x y]] (+ (* x x) (* y y)))
 (defn- proc-path [s-prev pair]
-  ; (pprint s-prev)
-  ; (pprint pair)
+  ;; (pprint s-prev)
+  ;; (pprint pair)
   (if (< (r-squared pair) 1)
     (inc s-prev)
     s-prev))
@@ -127,12 +127,12 @@
     (println fp)
     (chart-pi-sample-set! n fp)))
 
-; user=> (try-reg!)
-; "Elapsed time: 7955.653529 msecs"
-; 3.1418568
-; user=> (try-par!)
-; "Elapsed time: 1882.098026 msecs"
-; 3.142266
+;; user=> (try-reg!)
+;; "Elapsed time: 7955.653529 msecs"
+;; 3.1418568
+;; user=> (try-par!)
+;; "Elapsed time: 1882.098026 msecs"
+;; 3.142266
 
 #_(do
     (load-file "src/monte_carlo/calculate_pi.clj")
