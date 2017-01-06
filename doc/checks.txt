@@ -1,0 +1,374 @@
+Compiling namespace bnd.utils
+Compiling namespace monte-carlo.calculate-pi
+Reflection warning, clojure/core/matrix/impl/dataset.clj:166:15 - call to method indexOf on java.lang.Object can't be resolved (no such method).
+Reflection warning, clojure/core/matrix/impl/dataset.clj:150:18 - call to method indexOf can't be resolved (target class is unknown).
+Reflection warning, clojure/core/matrix/impl/dataset.clj:107:25 - call to method indexOf can't be resolved (target class is unknown).
+Reflection warning, clojure/core/matrix/impl/dataset.clj:159:18 - call to method indexOf can't be resolved (target class is unknown).
+Reflection warning, clojure/core/matrix/dataset.clj:134:34 - call to method indexOf can't be resolved (target class is unknown).
+Performance warning, incanter/core.clj:342:11 - case has int tests, but tested expression is not primitive.
+Performance warning, incanter/core.clj:369:12 - case has int tests, but tested expression is not primitive.
+Reflection warning, incanter/core.clj:2623:37 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2623:22 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2625:37 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2625:22 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2627:37 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2627:22 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2628:37 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2639:46 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2639:31 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2640:31 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2654:16 - call to javax.swing.ImageIcon ctor can't be resolved.
+Reflection warning, incanter/core.clj:2671:13 - call to method browse on java.lang.Object can't be resolved (no such method).
+Reflection warning, incanter/core.clj:2682:48 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2682:23 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2683:23 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2719:87 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2719:62 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2720:62 - call to java.util.Vector ctor can't be resolved.
+Reflection warning, incanter/core.clj:2721:8 - call to method setModel can't be resolved (target class is unknown).
+Reflection warning, incanter/stats.clj:381:16 - call to cern.jet.random.tdouble.DoubleUniform ctor can't be resolved.
+Reflection warning, incanter/stats.clj:2557:3 - call to static method digit on java.lang.Character can't be resolved (argument types: unknown, long).
+Reflection warning, incanter/charts.clj:150:21 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:154:31 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:154:31 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:223:31 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:223:31 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:290:25 - call to method apply can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:299:14 - call to method setShadowVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:300:14 - call to method apply can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:351:18 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:351:18 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:352:23 - call to method getSeries can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:355:7 - call to method removeSeries can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:362:36 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:362:36 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:362:36 - call to method getSeries can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:372:21 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:373:13 - reference to field getDatasetCount can't be resolved.
+Reflection warning, incanter/charts.clj:377:21 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:377:9 - call to method addSeries can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:378:33 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:378:33 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:378:9 - call to method setSeriesOutlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:379:9 - call to method setSeriesRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:380:9 - reference to field fireChartChanged can't be resolved.
+Reflection warning, incanter/charts.clj:424:21 - reference to field getCategoryPlot can't be resolved.
+Reflection warning, incanter/charts.clj:425:34 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:425:17 - reference to field getColumnCount can't be resolved.
+Reflection warning, incanter/charts.clj:426:31 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:426:17 - reference to field getRowCount can't be resolved.
+Reflection warning, incanter/charts.clj:431:15 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:431:9 - call to method add can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:480:22 - reference to field getCategoryPlot can't be resolved.
+Reflection warning, incanter/charts.clj:481:35 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:481:18 - reference to field getColumnCount can't be resolved.
+Reflection warning, incanter/charts.clj:482:32 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:482:18 - reference to field getRowCount can't be resolved.
+Reflection warning, incanter/charts.clj:484:59 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:484:48 - call to method addValue can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:484:59 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:484:48 - call to method addValue can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:551:54 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:551:54 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:559:22 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:560:14 - reference to field getDatasetCount can't be resolved.
+Reflection warning, incanter/charts.clj:574:7 - call to method setSeriesRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:574:7 - call to method setDatasetRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:574:7 - call to method setDataset can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:574:7 - call to method setRenderer can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:590:20 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:590:20 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:591:25 - call to method getSeries can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:596:29 - call to method addSeries can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:602:15 - call to method add can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:613:22 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:614:14 - reference to field getDatasetCount can't be resolved.
+Reflection warning, incanter/charts.clj:627:8 - call to method setSeriesRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:627:8 - call to method setDatasetRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:627:8 - call to method setDataset can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:627:8 - call to method setRenderer can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:807:22 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:808:14 - reference to field getDatasetCount can't be resolved.
+Reflection warning, incanter/charts.clj:819:34 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:819:8 - call to method setSeriesRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:820:35 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:820:8 - call to method setDatasetRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:822:8 - call to method setDataset can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:823:8 - call to method setRenderer can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:945:28 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:954:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:959:10 - call to method setDomainAxis can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:960:10 - call to method setRangeAxis can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:965:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:966:8 - call to method setAxis can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:971:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:972:8 - call to method setRangeAxis can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:990:26 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:990:5 - call to method setForegroundAlpha can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1004:26 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:1004:5 - call to method setBackgroundAlpha can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1019:26 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:1019:5 - call to method setBackgroundAlpha can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1032:5 - call to method setTitle can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1046:32 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:1046:16 - reference to field getDomainAxis can't be resolved.
+Reflection warning, incanter/charts.clj:1046:5 - call to method setLabel can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1060:31 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:1060:16 - reference to field getRangeAxis can't be resolved.
+Reflection warning, incanter/charts.clj:1060:5 - call to method setLabel can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1081:10 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:1081:10 - reference to field getDomainAxis can't be resolved.
+Reflection warning, incanter/charts.clj:1081:10 - call to method setRange can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1102:10 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:1102:10 - reference to field getRangeAxis can't be resolved.
+Reflection warning, incanter/charts.clj:1102:10 - call to method setRange can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1189:69 - call to method indexOf can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1189:69 - call to method indexOf can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1195:21 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:1195:7 - call to method setRenderer can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1306:38 - reference to field getRangeAxis on org.jfree.chart.plot.Plot can't be resolved.
+Reflection warning, incanter/charts.clj:1306:38 - call to method setAutoRangeIncludesZero can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1472:24 - reference to field getRenderer on org.jfree.chart.plot.Plot can't be resolved.
+Reflection warning, incanter/charts.clj:1472:7 - call to method setSeriesShape can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1473:24 - reference to field getRenderer on org.jfree.chart.plot.Plot can't be resolved.
+Reflection warning, incanter/charts.clj:1473:7 - call to method setSeriesShape can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1586:54 - call to method lookupSeriesPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1587:63 - reference to field getRed can't be resolved.
+Reflection warning, incanter/charts.clj:1587:75 - reference to field getGreen can't be resolved.
+Reflection warning, incanter/charts.clj:1587:89 - reference to field getBlue can't be resolved.
+Reflection warning, incanter/charts.clj:1587:55 - call to java.awt.Color ctor can't be resolved.
+Reflection warning, incanter/charts.clj:1588:48 - call to method setSeriesFillPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1612:51 - call to method lookupSeriesPaint on org.jfree.chart.renderer.xy.XYItemRenderer can't be resolved (no such method).
+Reflection warning, incanter/charts.clj:1613:51 - call to method lookupLegendShape on org.jfree.chart.renderer.xy.XYItemRenderer can't be resolved (no such method).
+Reflection warning, incanter/charts.clj:1619:39 - call to org.jfree.chart.LegendItem ctor can't be resolved.
+Reflection warning, incanter/charts.clj:1619:39 - call to org.jfree.chart.LegendItem ctor can't be resolved.
+Reflection warning, incanter/charts.clj:1629:41 - reference to field getFontMetrics can't be resolved.
+Reflection warning, incanter/charts.clj:1630:41 - call to method stringWidth can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1631:41 - reference to field getHeight can't be resolved.
+Reflection warning, incanter/charts.clj:1632:32 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1632:32 - call to method fillRect can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1632:32 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1632:32 - call to method drawString can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1638:43 - reference to field getFontMetrics can't be resolved.
+Reflection warning, incanter/charts.clj:1639:40 - call to method stringWidth can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1640:40 - reference to field getHeight can't be resolved.
+Reflection warning, incanter/charts.clj:1660:47 - reference to field getInsets can't be resolved.
+Reflection warning, incanter/charts.clj:1660:24 - call to method createInsetRectangle can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1662:28 - reference to field getWidth can't be resolved.
+Reflection warning, incanter/charts.clj:1663:28 - reference to field getHeight can't be resolved.
+Reflection warning, incanter/charts.clj:1665:17 - call to method drawBackground can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1666:17 - call to method drawOutline can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setInsets on java.lang.Object can't be resolved (no such method).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setDomainAxis on java.lang.Object can't be resolved (no such method).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setRangeAxis on java.lang.Object can't be resolved (no such method).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setFixedDomainAxisSpace on java.lang.Object can't be resolved (no such method).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setFixedRangeAxisSpace on java.lang.Object can't be resolved (no such method).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setInsets can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setDomainAxis can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setRangeAxis can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setFixedDomainAxisSpace can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1669:19 - call to method setFixedRangeAxisSpace can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1677:58 - reference to field getX can't be resolved.
+Reflection warning, incanter/charts.clj:1678:58 - reference to field getY can't be resolved.
+Reflection warning, incanter/charts.clj:1679:39 - call to method setBounds on java.lang.Object can't be resolved (no such method).
+Reflection warning, incanter/charts.clj:1720:72 - reference to field getMaxX on java.lang.Object can't be resolved.
+Reflection warning, incanter/charts.clj:1725:36 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1725:36 - call to method setFont can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1725:36 - call to method setFont can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1732:36 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1732:36 - call to method setFont can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:1654:5 - call to method setTitle on org.jfree.chart.JFreeChart can't be resolved (argument types: java.lang.Object).
+Reflection warning, incanter/charts.clj:1931:46 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:1931:46 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2072:11 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2072:11 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2211:13 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2211:13 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2348:11 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2348:11 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2475:13 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2475:13 - call to method addValue on org.jfree.data.category.DefaultCategoryDataset can't be resolved (argument types: java.lang.Object, unknown, java.lang.Object).
+Reflection warning, incanter/charts.clj:2594:17 - call to static method createPieChart on org.jfree.chart.ChartFactory can't be resolved (argument types: unknown, org.jfree.data.general.DefaultPieDataset, java.lang.Boolean, java.lang.Boolean, java.lang.Boolean).
+Reflection warning, incanter/charts.clj:2602:11 - call to method setValue on org.jfree.data.general.DefaultPieDataset can't be resolved (argument types: java.lang.Object, java.lang.Object).
+Reflection warning, incanter/charts.clj:2602:11 - call to method setValue on org.jfree.data.general.DefaultPieDataset can't be resolved (argument types: java.lang.Object, java.lang.Object).
+Reflection warning, incanter/charts.clj:2681:17 - call to static method createBoxAndWhiskerChart on org.jfree.chart.ChartFactory can't be resolved (argument types: unknown, unknown, unknown, org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset, java.lang.Boolean).
+Reflection warning, incanter/charts.clj:2687:47 - reference to field getCategoryPlot can't be resolved.
+Reflection warning, incanter/charts.clj:2687:47 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:2687:47 - call to method setMaximumBarWidth can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:2688:7 - call to method add on org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset can't be resolved (argument types: unknown, unknown, unknown).
+Reflection warning, incanter/charts.clj:2695:11 - call to method add on org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset can't be resolved (argument types: java.lang.Object, java.lang.String, java.lang.Object).
+Reflection warning, incanter/charts.clj:2695:11 - call to method add on org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset can't be resolved (argument types: java.lang.Object, java.lang.String, unknown).
+Reflection warning, incanter/charts.clj:2930:38 - call to java.awt.Color ctor can't be resolved.
+Reflection warning, incanter/charts.clj:2928:24 - call to method add can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:2956:10 - call to method setTitle on org.jfree.chart.JFreeChart can't be resolved (argument types: unknown).
+Reflection warning, incanter/charts.clj:3120:25 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3120:9 - call to method addAnnotation can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3165:23 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3165:7 - call to method addAnnotation can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3228:23 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3228:7 - call to method addAnnotation can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3252:23 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3252:7 - call to method addAnnotation can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3302:35 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3302:9 - call to method setSeriesRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3303:36 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3303:9 - call to method setDatasetRenderingOrder can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3420:40 - call to java.io.File ctor can't be resolved.
+Reflection warning, incanter/charts.clj:3421:24 - call to method createBufferedImage can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3421:9 - call to static method write on javax.imageio.ImageIO can't be resolved (argument types: unknown, java.lang.String, unknown).
+Reflection warning, incanter/charts.clj:3433:6 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3433:6 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:3433:6 - reference to field getSeries can't be resolved.
+Reflection warning, incanter/charts.clj:3437:22 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3437:22 - call to method getDataset can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3435:18 - reference to field getSeries can't be resolved.
+Reflection warning, incanter/charts.clj:3447:8 - reference to field clear can't be resolved.
+Reflection warning, incanter/charts.clj:3451:14 - call to method addOrUpdate can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3451:14 - call to method addOrUpdate can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3453:25 - call to method addOrUpdate can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3464:8 - reference to field clear can't be resolved.
+Reflection warning, incanter/charts.clj:3465:21 - call to method addOrUpdate can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3490:18 - call to javax.swing.JLabel ctor can't be resolved.
+Reflection warning, incanter/charts.clj:3495:88 - reference to field getValue on java.lang.Object can't be resolved.
+Reflection warning, incanter/charts.clj:3705:39 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3705:39 - call to method getRenderer can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3713:9 - call to method setAutoPopulateSeriesStroke can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3713:9 - call to method setBaseStroke can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3716:9 - call to method setSeriesStroke can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3744:39 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3744:39 - call to method getRenderer can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3745:6 - call to method setSeriesPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3754:14 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3755:22 - reference to field getSeriesCount can't be resolved.
+Reflection warning, incanter/charts.clj:3759:18 - call to method getRenderer can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3761:7 - call to method setSeriesShape can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3761:7 - call to method setSeriesShape can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3768:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3769:21 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:3771:42 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3771:28 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:3774:10 - call to method setBarPainter can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3774:10 - call to method setSeriesOutlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3774:10 - call to method setShadowVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3774:10 - call to method setDrawBarOutline can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3785:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3786:21 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:3788:8 - call to method setBarPainter can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3788:8 - call to method setSeriesOutlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3788:8 - call to method setShadowVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3788:8 - call to method setDrawBarOutline can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3807:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3808:21 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:3810:11 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3810:11 - call to method setRangeGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3810:11 - call to method setDomainGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3814:10 - call to method setOutlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3814:10 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3822:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3823:21 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:3825:11 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3825:11 - call to method setRangeGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3825:11 - call to method setDomainGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3829:10 - call to method setOutlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3829:10 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3837:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3838:21 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:3840:11 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3840:11 - call to method setRangeGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3840:11 - call to method setDomainGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3844:10 - call to method setOutlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3844:10 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3852:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3853:21 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:3855:11 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3855:11 - call to method setRangeGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3855:11 - call to method setDomainGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3859:10 - call to method setOutlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3859:10 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3875:17 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3876:8 - call to method setRangeGridlineStroke can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3876:8 - call to method setDomainGridlineStroke can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3876:8 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3876:8 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3876:8 - call to method setRangeGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3876:8 - call to method setDomainGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3876:8 - call to method setOutlineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3884:29 - reference to field getDomainAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3884:29 - call to method setAxisLineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3885:28 - reference to field getRangeAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3885:28 - call to method setAxisLineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3886:29 - reference to field getDomainAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3886:29 - call to method setLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3887:28 - reference to field getRangeAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3887:28 - call to method setLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3888:29 - reference to field getDomainAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3888:29 - call to method setTickLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3889:28 - reference to field getRangeAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3889:28 - call to method setTickLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3876:8 - call to method setDomainZeroBaselineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3894:15 - reference to field getDataset can't be resolved.
+Reflection warning, incanter/charts.clj:3896:32 - reference to field getRenderer can't be resolved.
+Reflection warning, incanter/charts.clj:3896:32 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3897:28 - reference to field getTitle can't be resolved.
+Reflection warning, incanter/charts.clj:3897:28 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3909:14 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3909:8 - call to method setRangeGridlineStroke can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3909:8 - call to method setDomainGridlineStroke can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3909:8 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3909:8 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3909:8 - call to method setRangeGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3909:8 - call to method setDomainGridlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3909:8 - call to method setOutlineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3917:29 - reference to field getDomainAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3917:29 - call to method setAxisLineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3918:28 - reference to field getRangeAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3918:28 - call to method setAxisLineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3919:29 - reference to field getDomainAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3919:29 - call to method setLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3920:28 - reference to field getRangeAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3920:28 - call to method setLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3921:29 - reference to field getDomainAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3921:29 - call to method setTickLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3922:28 - reference to field getRangeAxis can't be resolved.
+Reflection warning, incanter/charts.clj:3922:28 - call to method setTickLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3925:28 - reference to field getTitle can't be resolved.
+Reflection warning, incanter/charts.clj:3925:28 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3937:14 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3937:8 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3937:8 - call to method setShadowPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3937:8 - call to method setLabelShadowPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3937:8 - call to method setLabelPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3937:8 - call to method setLabelOutlinePaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3937:8 - call to method setLabelBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3937:8 - call to method setLabelLinksVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3937:8 - call to method setOutlineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3948:28 - reference to field getTitle can't be resolved.
+Reflection warning, incanter/charts.clj:3948:28 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3960:14 - reference to field getPlot can't be resolved.
+Reflection warning, incanter/charts.clj:3960:8 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3960:8 - call to method setBackgroundPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3960:8 - call to method setOutlineVisible can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3976:28 - reference to field getTitle can't be resolved.
+Reflection warning, incanter/charts.clj:3976:28 - call to method setPaint can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:3998:6 - call to method addSubtitle can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:4003:6 - call to method addSubtitle can't be resolved (target class is unknown).
+Reflection warning, incanter/charts.clj:4008:6 - call to method addSubtitle can't be resolved (target class is unknown).
+Compiling namespace monte-carlo.core
+Compiling namespace monte-carlo.simulation
+Compiling namespace monte-carlo.stock-option
+WARNING: update already refers to: #'clojure.core/update in namespace: clojure.math.combinatorics, being replaced by: #'clojure.math.combinatorics/update
+distributions.clj:211 recur arg for primitive local: acc is not matching primitive, had: Object, needed: long
+Auto-boxing loop arg: acc
+Reflection warning, incanter/distributions.clj:222:28 - reference to field comparator on clojure.lang.APersistentMap can't be resolved.
+Reflection warning, incanter/distributions.clj:225:43 - call to method compare can't be resolved (target class is unknown).
+Reflection warning, incanter/distributions.clj:228:44 - call to method compare can't be resolved (target class is unknown).
+Reflection warning, incanter/distributions.clj:449:19 - call to method pdf can't be resolved (target class is unknown).
+Reflection warning, incanter/distributions.clj:450:19 - call to method cdf can't be resolved (target class is unknown).
+Reflection warning, incanter/distributions.clj:790:20 - call to cern.jet.random.tdouble.DoubleUniform ctor can't be resolved.
+Reflection warning, incanter/distributions.clj:791:20 - call to cern.jet.random.tdouble.DoubleUniform ctor can't be resolved.
+Compiling namespace monte-carlo.stock-option-simulation
+Compiling namespace monte-carlo.stock-price
+Compiling namespace monte-carlo.stock-time-series
+Compiling namespace random.example
+Compiling namespace random.utils
+Compiling namespace stats.core
